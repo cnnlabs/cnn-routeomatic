@@ -1,0 +1,15 @@
+*.backup.*
+*.keep
+*.rdb
+.DS_Store
+.vscode
+bower_components
+code-coverage.html
+docs
+log
+node_modules
+npm-debug.log
+out
+public
+tmp
+.idea

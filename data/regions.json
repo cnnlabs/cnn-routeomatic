@@ -1,0 +1,14 @@
+{
+    "ARA": ["DZ", "BH", "EG", "IQ", "JO", "KW", "LB", "LY", "MR", "MA", "OM",
+        "QA", "SA", "SD", "SY", "TN", "AE", "EH", "YE"],
+    "ENG": ["US", "GB", "CA", "AU", "IE", "NZ", "AI", "AG", "BS", "BB", "BZ",
+        "BM", "IO", "VG", "KY", "DM", "FK", "GI", "GD", "GU", "GG", "GY",
+        "HK", "IM", "JM", "JE", "MS", "NR", "PN", "SH", "KN", "VC", "SG",
+        "GS", "TC", "TT", "VI"],
+    "ESP": ["ES", "MX", "CO", "AR", "PE", "VE", "CL", "EC", "GT", "CU", "BO",
+        "DO", "HN", "PY", "SV", "NI", "CR", "PR", "PA", "UY", "GQ", "GI"],
+    "FRA": ["FR", "BL", "MF", "PF", "PM", "WF"],
+    "GBR": ["GB", "AI", "BM", "FK", "GI", "IO", "KY", "MS", "PN", "SH", "TC",
+        "VG"],
+    "USA": ["US", "GU", "MP", "PR", "VI"]
+}
