@@ -1,6 +1,6 @@
 {
   "name": "cnn-routeomatic",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "A library for web server routing, redirecting and rewriting joy for ExpressJS.",
   "main": "lib/routeomatic.js",
   "private": true,
@@ -34,13 +34,13 @@
   "license": "none",
   "readmeFilename": "README.md",
   "dependencies": {
-    "mime": "^2.0.3"
+    "mime": "^2.2.0"
   },
   "devDependencies": {
-    "eslint": "^4.12.0",
+    "eslint": "^4.17.0",
     "jsdoc": "3.5.5"
   },
   "engines": {
-    "node": ">=8.9.3"
+    "node": ">=9.5.0"
   }
 }
