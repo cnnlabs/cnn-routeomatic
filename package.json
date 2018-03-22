@@ -36,6 +36,7 @@
   "dependencies": {
     "content-type": "^1.0.4",
     "mime": "^2.2.0",
+    "qs": "^6.5.1",
     "raw-body": "^2.3.2"
   },
   "devDependencies": {
