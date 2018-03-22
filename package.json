@@ -34,7 +34,9 @@
   "license": "none",
   "readmeFilename": "README.md",
   "dependencies": {
-    "mime": "^2.2.0"
+    "content-type": "^1.0.4",
+    "mime": "^2.2.0",
+    "raw-body": "^2.3.2"
   },
   "devDependencies": {
     "eslint": "^4.18.2",
