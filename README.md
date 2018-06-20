@@ -7,7 +7,7 @@ The Route-O-Matic uses a single configuration set to allow complete build-time O
 configuration of hostnames and routes supported by the server.  Furthermore, the hosts and
 routes can be changed at any time without requiring a restart of the server.
 
-The library consists of four primary components:
+#### The library consists of four primary components:
 
 1. The main Route-O-Matic library itself (lib/routeomatic.js), all that needs to be included
    for use.
@@ -18,7 +18,7 @@ The library consists of four primary components:
    new request object for use with Route-O-Matic route handling functions.
 
 
-A brief rundown of some key features:
+#### A brief rundown of some key features:
 
 * Fully run-time configurable and re-configurable.
 * Supports any number of virtual hosts with unique or shared route tables.
@@ -27,4 +27,9 @@ A brief rundown of some key features:
 * Redirects, rewrites, handled routes are all configured as "routes".
 * Built-in easy to use proxy logic.
 
+
+### What is not yet done...
+
+* Documentation needs to be written.
+* A test suite needs to be created.
 
