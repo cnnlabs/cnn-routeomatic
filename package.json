@@ -1,6 +1,6 @@
 {
   "name": "cnn-routeomatic",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "description": "A library for web server routing, redirecting and rewriting joy for ExpressJS.",
   "main": "lib/routeomatic.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:vgtf/cnn-routeomatic.git"
+    "url": "https://github.com/cnnlabs/cnn-routeomatic.git"
   },
   "files": [
     "data/",
